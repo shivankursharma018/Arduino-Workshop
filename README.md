@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-      <img width="20%" src="/arduino-icon.svg">
+      <img width="20%" src="/Arduino-Workshop/Gallery/arduino-icon.png">
   </p>
   <b><h3> Arduino Workshop </h3></b>
   <p> Mini Projects and Making an Object Avoiding R.C. Car using <a href="https://www.arduino.cc"> Arduino </a></p>
@@ -26,8 +26,15 @@
 <br>
 
 ## Apps and Tools
- &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
- &nbsp; &nbsp; <a href="https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US"> Bluetooth RC Car </a>
+<a href="https://www.arduino.cc/en/software"><img src="/Arduino-Workshop/Gallery/arduino-app.png" width="40"></a>
+ <br>
+<a href="https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US"> Bluetooth RC Car </a>
+ <br>
+  <img src="/Arduino-Workshop/Gallery/arduino-circuit.png" width="300" height="auto">
+  <img src="/Arduino-Workshop/Gallery/arduino-ir.png" width="300" height="auto">
+  <img src="/Arduino-Workshop/Gallery/arduino-ldr.png" width="300" height="auto">
+
+
 
 <br><br>
 
@@ -38,7 +45,8 @@
 ---
 
 <div align="center">
-<img src="/readme-essentials/LIFOD.jpg" width="300" height="auto">
+ <img src="/Arduino-Workshop/Gallery/arduino-gif-ir.gif" width="300" height="auto">
+ <img src="/Arduino-Workshop/Gallery/arduino1.jpeg" width="300" height="auto">
 
 LinkedIn Post: [click here!](https://www.linkedin.com/posts/shivankursharma018_attended-arduino-workshops-in-october22-activity-7059171334735462400-jIGj?utm_source=share&utm_medium=member_desktop)
 
