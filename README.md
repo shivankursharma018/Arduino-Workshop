@@ -26,11 +26,11 @@
 <br>
 
 ## Apps and Tools
+<a href="https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US"> Bluetooth RC Car App</a>
+ <br>
 <a href="https://www.arduino.cc/en/software"><img src="/Arduino-Workshop/Gallery/arduino-app.png" width="40"></a>
  <br>
-<a href="https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US"> Bluetooth RC Car </a>
- <br>
-  <img src="/Arduino-Workshop/Gallery/arduino-circuit.png" width="300" height="auto">
+  <img src="/Arduino-Workshop/Gallery/arduino-uno.png" width="300" height="auto">
   <img src="/Arduino-Workshop/Gallery/arduino-ir.png" width="300" height="auto">
   <img src="/Arduino-Workshop/Gallery/arduino-ldr.png" width="300" height="auto">
 
@@ -39,14 +39,9 @@
 <br><br>
 
 ## Experience
-<!-- images from linkdn -->
-
-<br><br>
----
-
 <div align="center">
- <img src="/Arduino-Workshop/Gallery/arduino-gif-ir.gif" width="300" height="auto">
- <img src="/Arduino-Workshop/Gallery/arduino1.jpeg" width="300" height="auto">
+ <img src="/Arduino-Workshop/Gallery/arduino-gif-ir.gif" width="300" height="450">
+ <img src="/Arduino-Workshop/Gallery/arduino1.jpeg" width="300" height="450">
 
 LinkedIn Post: [click here!](https://www.linkedin.com/posts/shivankursharma018_attended-arduino-workshops-in-october22-activity-7059171334735462400-jIGj?utm_source=share&utm_medium=member_desktop)
 
