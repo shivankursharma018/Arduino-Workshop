@@ -22,6 +22,12 @@
 9. Bread Board
 10. Jumper Wires
 11. Bluetooth Transmitter
+<br>
+<a href="Arduino-Workshop/ARDUINO DAY 1.pdf">Day1</a>
+<br>
+<a href="Arduino-Workshop/ARDUINO DAY 2.pdf">Day2</a>
+<br>
+<a href="Arduino-Workshop/ARDUINO DAY 3.pdf">Day3</a>
 
 <br>
 
